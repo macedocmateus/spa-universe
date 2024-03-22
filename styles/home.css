@@ -1,0 +1,12 @@
+@import url(../style.css);
+
+.link-home {
+    color: #fff;
+    font-size: 2.4rem;
+    line-height: 2.2rem;
+    font-weight: bold;
+
+    border-left: 0.2rem solid #fff;
+    border-right: 0.2rem solid #fff;
+    padding-inline: 1rem;
+}
