@@ -5,5 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>SPA Universe</title>
     </head>
-    <body></body>
+    <body>
+        <nav>
+            <a href="/" onclick="route()">Home</a>
+            <a href="/universe" onclick="route()">O Universo</a>
+            <a href="/exploration" onclick="route()">Exploração</a>
+            <a href="/404" onclick="route()">404</a>
+        </nav>
+
+        <div id="app"></div>
+        
+        <script src="source/index.js" type="module"></script>
+    </body>
 </html>
