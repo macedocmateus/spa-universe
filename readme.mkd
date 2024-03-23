@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O SPA Universe é uma Single Page Applications(Aplicação de página única) sobre galaxias e universos. Clique <a href="https://focus-timer-v2-flame.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+O SPA Universe é uma Single Page Applications(Aplicações de página única) sobre galaxias e universos. Clique <a href="https://focus-timer-v2-flame.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
 
 ## 🎨 Layout
 
