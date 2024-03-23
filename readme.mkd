@@ -1,0 +1,45 @@
+<h1 align="center"> 🌠 SPA Universe 🌠</h1>
+
+<p align="center">
+Projeto pessoal utilizando conceitos de SPA (Single Page Applications) com Javascript Vanilla.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Interface de um sistema de pomodoro" src="./assets/capa-readme.jpg" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+-   HTML e CSS
+-   Javascript
+-   Nodejs
+-   NPM Package (Lite-server)
+-   Json
+-   Git e Github
+-   Figma
+
+## 💻 Projeto
+
+O SPA Universe é uma Single Page Applications(Aplicação de página única) sobre galaxias e universos. Clique <a href="https://focus-timer-v2-flame.vercel.app/" target="_blank" rel="noopener noreferrer">aqui</a> para testar a página.
+
+## 🎨 Layout
+
+Clique <a href="https://www.figma.com/file/fQ3OXGZCQ0tS4YxVRkgvkQ/Desafios-Explorer-SPA-Universe-Copy?fuid=1050974991944149827" target="_blank" rel="noopener noreferrer">aqui</a> para conhecer a prototipagem do projeto.
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+Desenvolvido com ♥ by Mateus de Castro Macedo 👨‍💻
+</p>
