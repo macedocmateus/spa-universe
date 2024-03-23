@@ -5,7 +5,6 @@
     font-size: 2.4rem;
     line-height: 2.2rem;
     font-weight: bold;
-
     border-left: 0.2rem solid #fff;
     border-right: 0.2rem solid #fff;
     padding-inline: 1rem;
@@ -17,9 +16,10 @@
     justify-content: center;
     align-items: center;
     gap: 2.4rem;
-
-    margin-top: 33.4rem;
-    
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0%);
 }
 
 .main-content h1 {
@@ -35,12 +35,16 @@
     line-height: 2.4rem;
     font-weight: bold;
     color: #fff;
+    text-transform: uppercase;
     border: 1px solid #fff;
     border-radius: 5px;
     padding: 1.2rem 3.2rem;
+    background-color: transparent;
+    transition: background-color ease .5s, color ease .5s;
 }
 
 .button-link:hover {
     background-color: #fff;
     color: #02799D;
+    transition: all ease .5s;
 }

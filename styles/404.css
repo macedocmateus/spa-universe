@@ -1,0 +1,65 @@
+@import url(../style.css);
+
+body {
+    background-image: url(../assets/error404.jpg);
+}
+
+.main-content {
+    
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2.4rem;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    
+}
+
+.main-content .error {
+    font-size: 1.6rem;
+    line-height: 125%;
+    color: #E1E1E6;
+    font-weight: 400;
+    border-left: 2px solid #E1E1E6;
+    border-right: 2px solid #E1E1E6;
+    padding: 1rem;
+    border-radius: .5rem;
+    background-color: hsla(0, 0%, 0%, 0.377);
+}
+
+.main-content h1 {
+    font-size: 4.8rem;
+    line-height: 125%;
+    color: #E1E1E6;
+    font-weight: bold;
+}
+
+.main-content p {
+    font-size: 1.6rem;
+    line-height: 125%;
+    color: #E1E1E6;
+    font-weight: 400;
+}
+
+.main-content .link-back-home {
+    text-decoration: none;
+    font-size: 1.6rem;
+    line-height: 125%;
+    color: #E1E1E6;
+    font-weight: 400;
+    margin-top: 3rem;
+    background-color: #0a0a0a;
+    padding: 1.8rem 2.4rem;
+    border-radius: 5px;
+    text-transform: uppercase;
+    transition: background-color ease .3s, color ease .3s;
+}
+
+.main-content .link-back-home:hover {
+    color: #fff;
+    background-color: #000000;
+    transition: all ease .3s;
+}
